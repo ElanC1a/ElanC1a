@@ -1,6 +1,7 @@
 Bonjour, this is your captain speaking @ElanC1a
 
-I am studying, but stu is silent
+I am studying, but stu is silent 😎
+
 I LEARN  Python, Machine learning and curently doin' nothing... well i do smth eventually
 want to learn C#, Unity and prob work at FAANG (blond gurl dream)
 👴👶
